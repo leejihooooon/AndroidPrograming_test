@@ -1,14 +1,14 @@
 # 마크다운 문법
 
 ## 1. 제목 Headers
+
 ~~~
 #으로 시작하는 텍스트 
-
 #은 하나부터 여섯개까지 쓸 수 있고, #이 늘어날때마다 제목의 수준은 내려간다. 
 (보통 글씨 크기가 작아진다.)
-
 또는 - , = 을 이용하여 h1, h2를 쓸 수 있다. 
 ~~~
+
 예시) 
 
 # h1
@@ -30,9 +30,11 @@ h2
 --
 
 ## 2. 인용 Blockquotes
+
 ~~~
 >으로 시작하는 텍스트 
 ~~~
+
 예시)
 
 >This is a first blockqute.
@@ -67,7 +69,6 @@ void f(){
 ~~~
 
 ## 4. 인라인 코드 Inline Code Blocks
-
 ~~~
 `(Back quote) ' 로 감싸진 텍스트 
 ~~~
@@ -80,7 +81,6 @@ void f(){
 
 ~~~
 기울여 쓰기(italic) : ' * ' 또는 ' _ '로 감싼 텍스트 
-
 굵게쓰기(bold) : ' ** ' 또는 ' __ '로 감싼 텍스트 
 ~~~
 
@@ -164,4 +164,25 @@ url링크
 2. list item 3
 0. list item 4
 3. list item 5
+
+### 순서 없는 리스트 Unordered Lists
+
+~~~
+* , + , - 으로 시작
+~~~
+
+예시)
+
+* list item 1
+  * list item 1-1
+  * list item 1-2
+  
++ list item 2
+  + list item 2-1
+  + list item 2-2
+  
+- list item 3
+  - list item 3-1
+  - list item 3-2
+  - list item 3-3
 
