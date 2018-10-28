@@ -381,7 +381,7 @@ Content 2 | Content 4
 결과)
 
 ![favoriteImage1][1]
-[1]: https://user-images.githubusercontent.com/42789808/47612992-6ace8080-dac9-11e8-813b-eb22cf1055e7.png
+[1]:https://user-images.githubusercontent.com/42789808/47612992-6ace8080-dac9-11e8-813b-eb22cf1055e7.png
 
 ## 11. 라인 분리
 
