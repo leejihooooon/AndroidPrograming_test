@@ -196,7 +196,7 @@ ___
 ~~~
 인라인링크
 
-[Google](http://www.google.co.kr"구글")
+[Google](http://www.google.co.kr "구글")
 
 참조링크
 
@@ -204,9 +204,9 @@ ___
 
 [Naver][2]
 
-[1]: http://google.com/"구글"
+[1]: http://google.com/ "구글"
 
-[2]: http://naver.com/"네이버"
+[2]: http://naver.com/ "네이버"
 
 url링크
 
@@ -368,7 +368,7 @@ Content 2 | Content 4
 
 결과)
 
-![favoriteImage2](https://postfiles.pstatic.net/20160718_109/cesti5151_1468810958051cvpS5_JPEG/%B1%CD%BF%A9%BF%EE_%B9%CC%B4%CF%BE%F0%C1%EE__%B9%E8%B0%E6%C8%AD%B8%E9_%B0%ED%C8%AD%C1%FA%B7%CE_%C1%F1%B1%E2%BC%BC%BF%E4___%281%29.JPEG?type=w1)
+![favoriteImage3](https://postfiles.pstatic.net/20160718_109/cesti5151_1468810958051cvpS5_JPEG/%B1%CD%BF%A9%BF%EE_%B9%CC%B4%CF%BE%F0%C1%EE__%B9%E8%B0%E6%C8%AD%B8%E9_%B0%ED%C8%AD%C1%FA%B7%CE_%C1%F1%B1%E2%BC%BC%BF%E4___%281%29.JPEG?type=w1)
 
 ### 참조 이미지
 
