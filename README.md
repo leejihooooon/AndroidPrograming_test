@@ -368,7 +368,7 @@ Content 2 | Content 4
 
 결과)
 
-![favoriteImage3](https://postfiles.pstatic.net/20160718_109/cesti5151_1468810958051cvpS5_JPEG/%B1%CD%BF%A9%BF%EE_%B9%CC%B4%CF%BE%F0%C1%EE__%B9%E8%B0%E6%C8%AD%B8%E9_%B0%ED%C8%AD%C1%FA%B7%CE_%C1%F1%B1%E2%BC%BC%BF%E4___%281%29.JPEG?type=w1)
+![favoriteImage2](https://postfiles.pstatic.net/20160718_109/cesti5151_1468810958051cvpS5_JPEG/%B1%CD%BF%A9%BF%EE_%B9%CC%B4%CF%BE%F0%C1%EE__%B9%E8%B0%E6%C8%AD%B8%E9_%B0%ED%C8%AD%C1%FA%B7%CE_%C1%F1%B1%E2%BC%BC%BF%E4___%281%29.JPEG?type=w1)
 
 ### 참조 이미지
 
@@ -380,8 +380,8 @@ Content 2 | Content 4
 
 결과)
 
-![donggeun][1]
-[1]: https://user-images.githubusercontent.com/42789808/47612992-6ace8080-dac9-11e8-813b-eb22cf1055e7.png
+![favoriteImage3][1]
+[1]: https://user-images.githubusercontent.com/42789808/47613081-630fdb80-dacb-11e8-8ecb-1b6a0a34168d.jpg
 
 ## 11. 라인 분리
 
