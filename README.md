@@ -204,9 +204,9 @@ ___
 
 [Naver][2]
 
-[1]:http://google.com/"구글"
+[1]: http://google.com/"구글"
 
-[2]:http://naver.com/"네이버"
+[2]: http://naver.com/"네이버"
 
 url링크
 
@@ -220,7 +220,7 @@ url링크
 
 인라인링크
 
-[Google](http://www.google.co.kr"구글")
+[Google](http://www.google.co.kr "구글")
 
 참조링크
 
@@ -228,15 +228,15 @@ url링크
 
 [Naver][2]
 
-[1]:http://google.com/"구글"
+[1]: http://google.com/ "구글"
 
-[2]:http://naver.com/"네이버"
+[2]: http://naver.com/ "네이버"
 
 url링크
 
 <http://google.com/>
 
-<example@gmail.com/>
+<tlsehdrms124@naver.com/>
 
 ### 내부 링크 Internal (Anchored) Links
 
@@ -380,8 +380,8 @@ Content 2 | Content 4
 
 결과)
 
-![favoriteImage1][1]
-[1]:https://user-images.githubusercontent.com/42789808/47612992-6ace8080-dac9-11e8-813b-eb22cf1055e7.png
+![donggeun][1]
+[1]: https://user-images.githubusercontent.com/42789808/47612992-6ace8080-dac9-11e8-813b-eb22cf1055e7.png
 
 ## 11. 라인 분리
 
