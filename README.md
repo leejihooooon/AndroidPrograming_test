@@ -10,6 +10,20 @@
 ~~~
 
 예시) 
+~~~
+# h1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
+h1
+===
+h2
+--
+~~~
+
+결과)
 
 # h1
 
@@ -36,10 +50,17 @@ h2
 ~~~
 
 예시)
-
+~~~
 >This is a first blockqute.
 >>This is a second blockqute.
 >>>This is a third blockqute.
+~~~
+
+결과)
+>This is a first blockqute.
+>>This is a second blockqute.
+>>>This is a third blockqute.
+
 
 ## 3. 코드 블럭 Code Blocks
 
@@ -48,14 +69,31 @@ h2
 ~~~
 
 예시)
+~~~
+```
+이것은
+코드 블럭
+입니다
+```
+~~~
+이것은
+코드 블럭
+입니다
+~~~
+~~~C
+void f(){
+  printf(%s, "이것은 c 코드 입니다.");
+}
+~~~
+~~~
+
+결과)
 
 ```
 이것은
 코드 블럭
 입니다
 ```
-
-
 ~~~
 이것은
 코드 블럭
