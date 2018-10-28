@@ -265,7 +265,7 @@ url링크
   - list item 3-2
 ~~~
 
-)
+결과)
 
 * list item 1
   * list item 1-1
@@ -280,3 +280,89 @@ url링크
   - list item 3-2
   - list item 3-3
 
+## 9.테이블 Tables
+
+~~~
+|기호와 --- 기호를 사용하여 테이블을 만들수있다
+( --- 는 반드시 3개 이상이 되어야 구분자로 쓸수있다.)
+( | 기호는 생략이 가능하며, 다른 강조문법도 사용가능하다. 또한 : 기호를 통해 정렬방식을 바꿀수있다.)
+~~~
+
+### 테이블 생성
+
+예시)
+~~~
+Header 1 | Header 2
+--------- | ---------
+Content 1 | Content 3
+Content 2 | Content 4
+~~~
+
+결과)
+
+Header 1 | Header 2
+--------- | ---------
+Content 1 | Content 3
+Content 2 | Content 4
+
+### 테이블 정렬
+
+예시)
+~~~
+| Header 1 | Header 2 | Header 3 |
+| :-------- | :--------: | --------: |
+| Left | Center | Right |
+~~~
+
+결과)
+
+| Header 1 | Header 2 | Header 3 |
+| :-------- | :--------: | --------: |
+| Left | Center | Right |
+
+## 10. 이미지 Adding Images
+
+### 인라인 이미지
+
+
+## 11. 라인 분리
+
+~~~
+줄바꿈을 하고 싶은때는 Enter키를 2번이상 눌러줘야 한다. 1번 누를시 문장이 이어진다.
+~~~
+
+예시)
+~~~
+enter1
+enter2
+
+enter3
+~~~
+
+결과)
+
+enter1
+enter2
+
+enter3
+
+## 12. HTML코드
+
+~~~
+HTML코드를 이용할 수 있다.
+~~~
+
+예시)
+~~~
+<d1>
+  <dt>제목</dt>
+  <dd>내용</dd>
+</dl>
+~~~
+
+결과)
+
+<d1>
+  <dt>제목</dt>
+  <dd>내용</dd>
+</dl>
