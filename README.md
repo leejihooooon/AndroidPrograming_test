@@ -357,7 +357,7 @@ Content 2 | Content 4
 
 결과)
 
-![alt text](/test.jpg)
+![alt text](D:\다운받기용)
 
 ### 링크 이미지
 
@@ -381,7 +381,7 @@ Content 2 | Content 4
 결과)
 
 ![alt text][1]
-[1]: /test.jpg
+[1]: D:\다운받기용
 
 ## 11. 라인 분리
 
