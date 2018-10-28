@@ -94,6 +94,11 @@ void f(){
 ~~~
 
 예시)
+~~~
+`인라인 코드 블럭` 
+~~~
+
+결과)
 
 `인라인 코드 블럭` 
 
@@ -105,6 +110,17 @@ void f(){
 ~~~
 
 예시)
+~~~
+*기울여쓰기(italic)*
+
+_기울여쓰기(italic)_
+
+**굵게쓰기(bold)**
+
+__굵게쓰기(bold)__
+~~~
+
+결과)
 
 *기울여쓰기(italic)*
 
@@ -122,6 +138,15 @@ __굵게쓰기(bold)__
 ~~~
 
 예시)
+~~~
+---
+
+***
+
+___
+~~~
+
+결과)
 
 ---
 
@@ -142,6 +167,30 @@ ___
 ~~~
 
 예시)
+~~~
+인라인링크
+
+[Google](http://www.google.co.kr"구글")
+
+참조링크
+
+[Google][1]
+
+[Naver][2]
+
+[1]:http://google.com/"구글"
+
+[2]:http://naver.com/"네이버"
+
+url링크
+
+<http://google.com/>
+
+<example@gmail.com/>
+~~~
+
+
+결과)
 
 인라인링크
 
@@ -178,6 +227,15 @@ url링크
 ~~~
 
 예시)
+~~~
+1. list item 1
+1. list item 2
+2. list item 3
+0. list item 4
+3. list item 5
+~~~
+
+결과)
 
 1. list item 1
 1. list item 2
@@ -192,6 +250,22 @@ url링크
 ~~~
 
 예시)
+~~~
+
+* list item 1
+  * list item 1-1
+  * list item 1-2
+  
++ list item 2
+  + list item 2-1
+  + list item 2-2
+  
+- list item 3
+  - list item 3-1
+  - list item 3-2
+~~~
+
+)
 
 * list item 1
   * list item 1-1
